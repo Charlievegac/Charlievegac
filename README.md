@@ -1,8 +1,9 @@
 - Hi I'm @Charlievegac, I am a student studying computer science and business administration at the University of Southern California.
-- Outside of coding I am a huge outdoor person, I love to go atv riding, basically anything that is offroading, playing soccer, playing video games: R6, CoD, FIFA.
-- I also love to listen to music, especially when I am coding, my go to genres are house, and reggaeton.
-- I know how to code in C++, Python, and Java
-- I am currently still developing my JavaScript skills
-- I’m looking to collaborate on any project that has potential to make money (Just being real)
-- You can reach me on instagram, @charlie.vegac
-- ⚡ Fun fact: I am also a farmer
+- Outside of coding I am a huge outdoor person, I love to go offroading, play soccer, and play video games: R6, CoD, FIFA.
+- I also love to listen to music, especially when I am coding, my go to genres are house, and Mexican 80-90's Pop.
+- I know how to code in C++, Python, and Java, and I enjoy working on websites in my freetime
+- I am currently developing my JavaScript skills
+- I’m looking to collaborate on any project
+- You can reach me on linkedin, https://www.linkedin.com/in/carlosjvega05/
+- Heres a recent website I have developed: https://charlievegac.github.io/AgropecuariaVega/
+- Fun fact: I am also a farmer
